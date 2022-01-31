@@ -1,0 +1,29 @@
+{
+  "Task 1": {
+    "status": "ready",
+    "can be done by": "Human",
+    "completed": "False",
+    "completed by": "None",
+    "start time": "None",
+    "completion time": "None",
+    "worker note":""
+  },
+  "Task 2": {
+    "status": "ready",
+    "can be done by": "Human or Robot",
+    "completed": "False",
+    "completed by": "None",
+    "start time": "None",
+    "completion time": "None",
+    "worker note":""
+  },
+  "Task 3": {
+    "status": "ready",
+    "can be done by": "Robot",
+    "completed": "False",
+    "completed by": "None",
+    "start time": "None",
+    "completion time": "None",
+    "worker note":""
+  }
+}
